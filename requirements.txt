@@ -9,3 +9,5 @@ flask-migrate
 marshmallow
 gunicorn
 psycopg2
+requests
+rq
